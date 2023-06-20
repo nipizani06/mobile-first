@@ -41,3 +41,14 @@
 .container__botao:checked~lita-menu {
   display: block;
 }
+
+.lita-menu__titulo,
+.lista-menu__item {
+  padding: 1em;
+  background-color: var(--branco);
+}
+
+.lista-menu__titulo {
+  color: var(--laranja);
+  font-weight: 700;
+}
