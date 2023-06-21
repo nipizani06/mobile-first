@@ -15,4 +15,25 @@ hr {
    .rodapé {
       display: flex;
       justify-content: space-around;
- }
+}
+
+.lista-rodapé {
+   display: block;
+}
+
+.lista-rodapé__item {
+   display: flex;
+   align-items: center;
+   margin: 0.6em 0;
+}
+
+.lista-rodapé__link {
+   color: var(--cinza);
+   text-decoration: none;
+   margin-left: 0.6em;
+}
+
+>lita-rodapé__titulo {
+   font-size: 14px;
+   color: var(--conza-claro);
+}
