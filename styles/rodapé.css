@@ -33,7 +33,7 @@ hr {
    margin-left: 0.6em;
 }
 
->lita-rodapé__titulo {
+.lita-rodapé__titulo {
    font-size: 14px;
    color: var(--conza-claro);
 }
