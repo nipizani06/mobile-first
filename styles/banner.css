@@ -34,7 +34,7 @@
   background-position: 1em;
 }
 
-@media screen an (min-width: 1024px) {
+@media screen and (min-width: 1024px) {
   .banner__titulo {
     font-size: 30px:
 }
